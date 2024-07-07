@@ -167,3 +167,4 @@ events.pickle
 generator.lock
 test_dlp.xml
 uf_files
+*ac_*
